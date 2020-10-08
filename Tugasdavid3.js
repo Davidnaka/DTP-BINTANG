@@ -1,0 +1,24 @@
+var baris = 3;
+var polaBintang = "*";
+var polaSamaDgn = "=";
+var hasil = "";
+
+for (let indexx = 1; indexx < 6; indexx++) {
+	if ((indexx %2)==0) {
+	hasil = hasil.concat(polaSamaDgn);
+	} else { 
+	hasil = hasil.concat(polaBintang);
+	}
+}
+console.log(""+hasil);
+
+hasil="";
+for (let indexx = 1; indexx < 4; indexx++) {
+	if ((indexx %2)==0) {
+	hasil = hasil.concat(polaSamaDgn);
+	} else { 
+	hasil = hasil.concat(polaBintang);
+	}
+}
+console.log(" "+hasil);
+console.log("  "+polaBintang);
