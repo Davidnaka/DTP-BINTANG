@@ -1,2 +1,2 @@
-# DTP-BINTANG
+# There is 1 impostor amoung us
 BUKAN GW BRO, TADI GW LIAT SI OREN NGEHACK SATELIT....
