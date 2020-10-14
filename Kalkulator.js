@@ -6,7 +6,7 @@ var rl = input.createInterface({
 });
 
 
-console.log("Kalkulator - Muhammad");
+console.log("Kalkulator - David Naka Nugroho Mustakim");
 console.log("_____");
 console.log("1.) Tambah(+)");
 console.log("2.) Kurang(-)");
